@@ -1,0 +1,19 @@
+{
+  "data" : {
+    "url" : "sales.csv"
+  },
+  "mark" : "sphere",
+  "encoding" : {
+    "x" : {
+      "field" : "Country",
+      "type" : "nominal"
+    },
+    "y" : {
+      "field" : "Total Profit",
+      "type" : "quantitative"
+    }
+  },
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500
+}

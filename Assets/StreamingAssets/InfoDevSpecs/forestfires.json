@@ -1,0 +1,148 @@
+{
+  "width" : 5000,
+  "height" : 100,
+  "depth" : 2500,
+  "data" : {
+    "url" : "forestfires.csv",
+    "linked" : "true"
+  },
+  "mark" : "fire",
+  "encoding" : {
+    "x" : {
+      "field" : "X",
+      "type" : "quantitative",
+      "scale" : {
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "9"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "5000"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "front",
+        "orient" : "bottom",
+        "title" : "X",
+        "length" : 5000,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "0",
+          "1.8",
+          "3.6",
+          "5.4",
+          "7.2",
+          "9"
+        ],
+        "tickCount" : 6,
+        "labels" : true
+      }
+    },
+    "z" : {
+      "field" : "Y",
+      "type" : "quantitative",
+      "scale" : {
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "9"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "2500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "left",
+        "orient" : "bottom",
+        "title" : "Y",
+        "length" : 2500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "0",
+          "1.8",
+          "3.6",
+          "5.4",
+          "7.2",
+          "9"
+        ],
+        "tickCount" : 6,
+        "labels" : true
+      }
+    },
+    "size" : {
+      "field" : "area",
+      "type" : "quantitative",
+      "scale" : {
+        "range" : [
+          0.04,
+          0.6
+        ],
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "1090.84"
+        ],
+        "padding" : "0.05",
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "legend" : {
+        "type" : "gradient",
+        "filter" : false,
+        "gradientWidth" : 200,
+        "gradientHeight" : 50,
+        "face" : "front",
+        "orient" : "right",
+        "x" : 5000,
+        "y" : 100,
+        "z" : 0,
+        "title" : "Legend: area"
+      }
+    },
+    "color" : {
+      "field" : "temp",
+      "type" : "quantitative",
+      "scale" : {
+        "domain" : [
+          0,
+          33
+        ],
+        "range" : [
+          "#00ffff",
+          "#ff0000"
+        ],
+        "type" : "sequential",
+        "padding" : "0.05",
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "legend" : {
+        "type" : "gradient",
+        "filter" : false,
+        "gradientWidth" : 200,
+        "gradientHeight" : 50,
+        "face" : "front",
+        "orient" : "right",
+        "x" : 5000,
+        "y" : 100,
+        "z" : 0,
+        "title" : "Legend: temp"
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data" : {
+    "url" : "sales.csv"
+  },
+  "mark" : "cube",
+  "encoding" : {
+    "x" : {
+      "field" : "Country",
+      "type" : "ordinal",
+      "scale" : {
+        "type" : "point",
+        "domain" : [
+          "Angola",
+          "Bangladesh",
+          "Burkina Faso",
+          "Cape Verde",
+          "Grenada",
+          "Honduras",
+          "Kyrgyzstan",
+          "Republic of the Congo",
+          "Russia",
+          "Rwanda",
+          "Sao Tome and Principe",
+          "Senegal",
+          "Solomon Islands",
+          "Tuvalu"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "front",
+        "orient" : "bottom",
+        "title" : "Country",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "Angola",
+          "Bangladesh",
+          "Burkina Faso",
+          "Cape Verde",
+          "Grenada",
+          "Honduras",
+          "Kyrgyzstan",
+          "Republic of the Congo",
+          "Russia",
+          "Rwanda",
+          "Sao Tome and Principe",
+          "Senegal",
+          "Solomon Islands",
+          "Tuvalu"
+        ],
+        "tickCount" : 14,
+        "labels" : true
+      }
+    },
+    "y" : {
+      "field" : "Total Revenue",
+      "type" : "quantitative",
+      "scale" : {
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "1487261"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "front",
+        "orient" : "left",
+        "title" : "Total Profit",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "0",
+          "297452.2",
+          "594904.4",
+          "892356.6",
+          "1189809",
+          "1487261"
+        ],
+        "tickCount" : 6,
+        "labels" : true
+      }
+    },
+    "z" : {
+      "field" : "Total Cost",
+      "type" : "quantitative",
+      "scale" : {
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "1487261"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "left",
+        "orient" : "bottom",
+        "title" : "Total Profit",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "0",
+          "297452.2",
+          "594904.4",
+          "892356.6",
+          "1189809",
+          "1487261"
+        ],
+        "tickCount" : 6,
+        "labels" : true
+      }
+    }
+  },
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500
+}

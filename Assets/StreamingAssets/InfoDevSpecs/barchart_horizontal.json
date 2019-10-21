@@ -1,0 +1,26 @@
+{
+  "data" : {
+    "url" : "sales.csv"
+  },
+  "mark" : "cube",
+  "encoding" : {
+    "y" : {
+      "field" : "Country",
+      "type" : "nominal"
+    },
+    "x" : {
+      "field" : "Total Profit",
+      "type" : "quantitative"
+    },
+    "width" : {
+      "field" : "Total Profit",
+      "type" : "quantitative"
+    },
+    "xoffsetpct" : {
+      "value" : -0.5
+    }
+  },
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500
+}

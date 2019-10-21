@@ -1,0 +1,2021 @@
+fileFormatVersion: 2
+guid: 767e53508be9f324183b114bf6b17a0f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Example_Image
+    21300002: labelBackground
+    21300004: separator
+    21300006: Window_Header
+    21300008: Tooltip_Background
+    21300010: radioNormal
+    21300012: toggleHover
+    21300014: toggleNormal
+    21300016: radioHover
+    21300018: radioCheckmark
+    21300020: toggleCheckmark
+    21300022: Table_Row_Header_Background
+    21300024: Table_Row_Normal_Background
+    21300026: Table_Row_Normal_Background_Hover
+    21300028: textFieldFocused
+    21300030: textFieldNormal
+    21300032: Slider_Horizontal_Background
+    21300034: Slider_Vertical_Background
+    21300036: Slider_Horizontal_ThumbHover
+    21300038: Slider_Horizontal_ThumbNormal
+    21300040: Slider_Vertical_ThumbHover
+    21300042: Slider_Vertical_ThumbNormal
+    21300044: Table_Row_Header_Separator
+    21300046: Table_Row_Normal_Separator
+    21300048: Loading_Bar_Background
+    21300050: Image_Box_Background
+    21300052: Loading_Bar_Fill
+    21300054: ScrollBar_Horizontal_Background
+    21300056: ScrollBar_Vertical_Background
+    21300058: ScrollBar_Horizontal_ThumbNormal
+    21300060: ScrollBar_Vertical_ThumbNormal
+    21300062: ScrollBar_Horizontal_ThumbHover
+    21300064: ScrollBar_Vertical_ThumbHover
+    21300066: ScrollBar_Vertical_Top_Button
+    21300068: ScrollBar_Horizontal_Button_Right
+    21300070: ScrollBar_Horizontal_Button_Left
+    21300072: ScrollBar_Vertical_Bottom_Button
+    21300074: buttonPressed
+    21300076: buttonHover
+    21300078: buttonNormal
+    21300080: smallButton_Hover
+    21300082: smallButton_Pressed
+    21300084: smallButton_Normal
+    21300086: tinyButton_Hover
+    21300088: tinyButton_Normal
+    21300090: tinyButton_Pressed
+    21300092: arrowButtonRight_Normal
+    21300094: arrowButtonRight_Pressed
+    21300096: arrowButtonLeft_Hover
+    21300098: arrowButtonRight_Hover
+    21300100: arrowButtonLeft_Normal
+    21300102: arrowButtonLeft_Pressed
+    21300104: tinyButton_Mail
+    21300106: tinyButton_Accept
+    21300108: tinyButton_Decline
+    21300110: tinyButton_Social
+    21300112: iconButton_Star_Hover
+    21300114: iconButton_Star_Normal
+    21300116: iconButton_Star_Pressed
+    21300118: iconButton_Heart_Pressed
+    21300120: iconButton_Heart_Normal
+    21300122: iconButton_Heart_Hover
+    21300124: iconButton_Decline_Pressed
+    21300126: iconButton_Decline_Hover
+    21300128: iconButton_Decline_Normal
+    21300130: iconButton_Plus_Hover
+    21300132: iconButton_Plus_Pressed
+    21300134: iconButton_Plus_Normal
+    21300136: arrowButtonMiddle_Pressed
+    21300138: arrowButtonMiddle_Normal
+    21300140: arrowButtonMiddle_Hover
+    21300142: Window_Background
+    21300144: SmallWindow_Background
+    21300146: SLA_Frame_10
+    21300148: SLA_Frame_19
+    21300150: SLA_Frame_13
+    21300152: SLA_Frame_18
+    21300154: SLA_Frame_02
+    21300156: SLA_Frame_11
+    21300158: SLA_Frame_04
+    21300160: SLA_Frame_03
+    21300162: SLA_Frame_17
+    21300164: SLA_Frame_12
+    21300166: SLA_Frame_16
+    21300168: SLA_Frame_09
+    21300170: SLA_Frame_20
+    21300172: SLA_Frame_15
+    21300174: SLA_Frame_14
+    21300176: SLA_Frame_06
+    21300178: SLA_Frame_07
+    21300180: SLA_Frame_05
+    21300182: SLA_Frame_01
+    21300184: SLA_Frame_08
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Window_Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 130, y: 130, z: 130, w: 130}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f8a8cd25640bf4aad545cd217f255c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading_Bar_Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 937
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7f94e46dbc4a845bc49e6f517f8a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image_Box_Background
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 369
+        height: 102
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e5dba2057093478f7ec6b630c6fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example_Image
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 104
+        width: 355
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd1a47b78746c4fb646bde59cfe7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading_Bar_Fill
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 903
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0a4b79e5f8e94c85a7a5ce81e48ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Header
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 194
+        width: 398
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 28, y: 6, z: 12, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047b98e75bfa1f42a18e9b8ce454b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ab44d91a631140aee5dc258512eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_18
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 575
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4b1cca5a8dd946adb8d8aaa4f2258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 244
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf6077455caafb488ea488b42c6f909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_07
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 357
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b892f823819949348890162f96c65d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 244
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef2dedea1d63c41a87b28dec278837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 357
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c494a7fb37664c9b26f2a00d213aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 244
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698b57d06cc0e1042b189acb6f6e4c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_04
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 357
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12c97b2dae4b24ea19719a27a62d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_17
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 244
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f60894886f1ea478230465cc0bb9a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_02
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 357
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3ef4e83457f74991e43fd38dfcc7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef07e9d93e9b7c449b0cf309c6a27790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9604c38fd4f6e4abcc00e4fe0f0eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 688
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afebd489232b67b44a3d6ef54ecb77ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 801
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daada546928f48944924a28e48b1b953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 688
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077495439aa7a724c882e0f375adecd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_09
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 801
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708449da85245954abfc8db18cc82bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_05
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 688
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d068973fe60a499f4268c2f38f614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_06
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 801
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0a20945915fad47bbbe349e71ccd20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_01
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 608
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16355321d987c99419632cdb4955436f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLA_Frame_08
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 608
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78137ffed567344885ddf2059fc24a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonHover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 207
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 16, z: 14, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4058626abc38814cbdff0f34017ef85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonPressed
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 608
+        width: 207
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 16, z: 14, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3342292072eb4eba6b2e0a4e5bdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonNormal
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 608
+        width: 207
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 16, z: 14, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ce2e04576a1c4f8e960dd6cfe9ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tooltip_Background
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 665
+        width: 202
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 20, y: 16, z: 14, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fe6f79a418184c99fcae17957a009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallButton_Hover
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 113
+        width: 137
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c8ccb885bad645a6a0fd881e73abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 688
+        width: 137
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04456996b7de76439fb087f568adee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallButton_Normal
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 714
+        width: 137
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad27a4558c0c55429e8d8d43cc2537a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labelBackground
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 470
+        width: 166
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c63b7618c7fc04db9e9455d768a44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Row_Header_Background
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 470
+        width: 128
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b51cb93d4db8d40ab9ffbeb1e2208a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Row_Normal_Background
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 470
+        width: 128
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 4, y: 6, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a57ed60c943ee4181a85eecbecd9b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Row_Normal_Background_Hover
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 739
+        width: 128
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 4, y: 6, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dbf02620f82a74c8fb1300e7949dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Horizontal_Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 365
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 4, y: 4, z: 4, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc0679d8887f94d99420845848fae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textFieldFocused
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 507
+        width: 64
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138dd22b24e721f40a056968138debbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textFieldNormal
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 164
+        width: 64
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6361599bc137b340b703cc1b632ad06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: separator
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 366
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f404049592d8c04ea6b58168a561391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Horizontal_Background
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 765
+        width: 328
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 2, y: 3, z: 2, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605fe7f166b49a4bb76c939f3bb062d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Normal
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 219
+        width: 44
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822d250a68db62499d98f0de64930f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Hover
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 265
+        width: 44
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b050dc0d704a45a97afcca480fdd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 311
+        width: 44
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1cfbb78975344b8430636b9b08b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Vertical_Background
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 10
+        height: 165
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 5, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b568d55173cc4289bebc17a42d6c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Vertical_Background
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 357
+        width: 9
+        height: 129
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367a3e7eba132e4ba1b563e62bba4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioNormal
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 164
+        width: 28
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0392b665c3b784cbcbb90fb32855ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggleHover
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 164
+        width: 28
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d0bc058ee933a45a5c6029df5f6e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioHover
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 470
+        width: 28
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f4c84232938894585dabf2cc4b0531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggleNormal
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 608
+        width: 28
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638ba13dab7999459b3d99b0269da0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonLeft_Normal
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 638
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e549e582fd9c4e86e3adda945684d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonLeft_Pressed
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 357
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebd8f79197a2a94d8bb62c1647107b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonRight_Pressed
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 384
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d534da40c6272240b252d174d4e5d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonRight_Normal
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 411
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e503ea6d11c7547aaadc1d53b038aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonRight_Hover
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 438
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abd64db12bf0b8429d1256307a4a1fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonLeft_Hover
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 465
+        width: 30
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3634f3823ffbfb64ebf843fdd4f15dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Mail
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 194
+        width: 30
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885da9d79bda65643957201919d3de9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Accept
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 219
+        width: 28
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dcb77363a2f6d40855f889fdb52c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Decline
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 765
+        width: 24
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5af29f981e00bd438076fa6e9dc6a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyButton_Social
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 721
+        width: 24
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41cd52eab67d6c4da87e5bdbceec184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Star_Pressed
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 665
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeba6b4c89ed6749ad159de5916bcb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Star_Normal
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 219
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f108dad17dd80a24dafb393c90c62974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Star_Hover
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 714
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f6dce239c1ef4b8a26f2bc70da714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Heart_Hover
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 714
+        width: 19
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a41a623c3b5943a130136e0780a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Heart_Pressed
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 714
+        width: 19
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f8ef8156dab254cb954efb231b6c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Heart_Normal
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 665
+        width: 19
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925fac734532d474eacbca23d49c6d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Decline_Normal
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 665
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d527c98786806ac4f9dbfb67afce09bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Decline_Pressed
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 665
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3ac446d3785c47973c678c54789b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Decline_Hover
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 665
+        width: 18
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ede5d696e9f845b4b3f12166405a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Plus_Normal
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 721
+        width: 18
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2677c960477740b3ab2c19fa07905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Plus_Hover
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 742
+        width: 18
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5e4e91bc9f5f4fa6f841a3c2aa328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconButton_Plus_Pressed
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 721
+        width: 18
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f173c26c44b84fba8ec2c3c351e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonMiddle_Normal
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 488
+        width: 13
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f057b899270b64a9abffea4be4d9fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonMiddle_Pressed
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 748
+        width: 13
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e7ca0039bb5f45afa213533493728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButtonMiddle_Hover
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 608
+        width: 13
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87efac2dcc8fe6f438a0f5f42a551316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Horizontal_ThumbNormal
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 492
+        width: 24
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77d1758fe030448b285a6dcbfdd191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Horizontal_ThumbHover
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 562
+        width: 24
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674ab6b254d130b45b51b0f414ce36cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Vertical_ThumbHover
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 167
+        width: 7
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268aecd59e1165442bea8a593c74ee41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Vertical_ThumbNormal
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 164
+        width: 7
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d0114526b5f1843a60618157f02934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Horizontal_ThumbHover
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 625
+        width: 11
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ab373bca9ac254d83e6fef3185377f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Vertical_ThumbNormal
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 642
+        width: 15
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef6b5c371c9744aafeda372bb34f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Vertical_ThumbHover
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 562
+        width: 15
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed558b5a0059aa64e8894b52f47c5535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider_Horizontal_ThumbNormal
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 505
+        width: 11
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918a44a22cf0d942971e9a2cfbd4015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Row_Header_Separator
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 357
+        width: 5
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54b48aaa3f53548a02d5b22a27d5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Horizontal_Button_Left
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 748
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6b48971622bab4eb26bc56173e0921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Vertical_Bottom_Button
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 562
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c236d72dc45dbb54ea858f13e9c17319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Vertical_Top_Button
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 562
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82cc19ea2fb9243bc304a71c775d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollBar_Horizontal_Button_Right
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 562
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f446df4722a9b47b5678db563f7588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Row_Normal_Separator
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 2
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66367722d3a12a46ad80333843f828f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioCheckmark
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 104
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a40c2fedaabea4981dc2eeb03ac633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggleCheckmark
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 655
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf6e843ced9dc4998cb959699e54ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

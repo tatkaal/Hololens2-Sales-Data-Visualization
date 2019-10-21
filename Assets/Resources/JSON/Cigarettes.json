@@ -1,0 +1,124 @@
+{
+    "elements":[
+  {
+    "Description": "MARL KING BOX",
+    "Total_Quantity": 1,
+    "Total_Profit": 7.02,
+    "Total_Transaction": 2,
+    "Department": "Cigarettes",
+    "Product_Description": "The <b>HoloLens</b> is a head-mounted display unit connected to an adjustable, cushioned inner headband, which can tilt HoloLens up and down, as well as forward and backward. To wear the unit, the user fits the HoloLens on their head, using an adjustment wheel at the back of the headband to secure it around the crown, supporting and distributing the weight of the unit equally for comfort, before tilting the visor towards the front of the eyes The front of the unit houses many of the sensors and related hardware, including the processors, cameras and projection lenses. The visor is tinted; enclosed in the visor piece is a pair of transparent combiner lenses, in which the projected images are displayed in the lower half. The HoloLens must be calibrated to the interpupillary distance (IPD), or accustomed vision of the user. Along the bottom edges of the side, located near the user's ears, are a pair of small, red 3D audio speakers. The speakers, competing against typical sound systems, do not obstruct external sounds, allowing the user to hear virtual sounds, along with the environment. Using head-related transfer functions, the HoloLens generates binaural audio, which can simulate spatial effects; meaning the user, virtually, can perceive and locate a sound, as though it is coming from a virtual pinpoint or location. On the top edge are two pairs of buttons: display brightness buttons above the left ear, and volume buttons above the right ear. Adjacent buttons are shaped differently—one concave, one convex—so that the user can distinguish them by touch. At the end of the left arm is a power button and row of five, small individual LED nodes, used to indicate system status, as well as for power management, indicating battery level and setting power/standby mode. A USB 2.0 micro-B receptacle is located along the bottom edge. A 3.5 mm audio jack is located along the bottom edge of the right arm.",
+    "xpos": 1,
+    "ypos": 1
+  },
+  {
+    "Description": "CAMEL MEN FF BOX",
+    "Total_Quantity": 1,
+    "Total_Profit": 6.99,
+    "Total_Transaction": 3,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description. This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 1,
+    "ypos": 2
+  },
+  {
+    "Description": "LM Menthol 100s",
+    "Total_Quantity": 1,
+    "Total_Profit": 5.96,
+    "Total_Transaction": 4,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 1,
+    "ypos": 3
+  },
+  {
+    "Description": "MARL KING BOX",
+    "Total_Quantity": 1,
+    "Total_Profit": 7.02,
+    "Total_Transaction": 5,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 1,
+    "ypos": 4
+  },
+  {
+    "Description": "MARL KING BOX",
+    "Total_Quantity": 2,
+    "Total_Profit": 14.04,
+    "Total_Transaction": 12,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 2,
+    "ypos": 1
+  },
+  {
+    "Description": "marl 17*menthol box $.50/",
+    "Total_Quantity": 1,
+    "Total_Profit": 5.95,
+    "Total_Transaction": 3,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 2,
+    "ypos": 2
+  },
+  {
+    "Description": "MARL GOLD KING BOX",
+    "Total_Quantity": 1,
+    "Total_Profit": 7.02,
+    "Total_Transaction": 9,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 2,
+    "ypos": 3
+  },
+  {
+    "Description": "MARLBORO SPL BL MN BLK 10",
+    "Total_Quantity": 1,
+    "Total_Profit": 5.95,
+    "Total_Transaction": 77,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 2,
+    "ypos": 4
+  },
+  {
+    "Description": "times f/f 100",
+    "Total_Quantity": 1,
+    "Total_Profit": 3.99,
+    "Total_Transaction": 7,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 3,
+    "ypos": 1
+  },
+  {
+    "Description": "times f/f 100",
+    "Total_Quantity": 1,
+    "Total_Profit": 3.99,
+    "Total_Transaction": 9,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 3,
+    "ypos": 2
+  },
+  {
+    "Description": "MARLBORO SPEC BLD MEN BLK",
+    "Total_Quantity": 1,
+    "Total_Profit": 5.95,
+    "Total_Transaction": 87,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 3,
+    "ypos": 3
+  },
+  {
+    "Description": "NEWPORT 100 BOX",
+    "Total_Quantity": 1,
+    "Total_Profit": 7.6,
+    "Total_Transaction": 99,
+    "Department": "Cigarettes",
+    "Product_Description": "This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.This is the product description.",
+    "xpos": 3,
+    "ypos": 4
+  }
+]
+}
