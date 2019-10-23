@@ -146,6 +146,7 @@
      <Compile Include="Assets\Scripts\GlobalControl.cs" />
      <Compile Include="Assets\Scripts\GraphButton.cs" />
      <Compile Include="Assets\Scripts\LayoutStyleChanger.cs" />
+     <Compile Include="Assets\Scripts\Login.cs" />
      <Compile Include="Assets\Scripts\OptimizeSceneforDeviceType.cs" />
      <Compile Include="Assets\Scripts\PeriodicTableLoader.cs" />
      <Compile Include="Assets\Scripts\PresentToPlayer.cs" />

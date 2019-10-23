@@ -31,6 +31,10 @@ public class BackButton : MonoBehaviour
         {
         	SceneManager.LoadScene("Department");
         }
+        else if (sceneName == "infoscene")
+        {
+            SceneManager.LoadScene("Product");
+        }
 
     }
 }

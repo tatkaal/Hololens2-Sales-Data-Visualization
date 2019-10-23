@@ -2,7 +2,7 @@
   "data" : {
     "url" : "sales.csv"
   },
-  "mark" : "sphere",
+  "mark" : "cube",
   "encoding" : {
     "x" : {
       "field" : "Country",
@@ -101,7 +101,7 @@
       }
     },
     "z" : {
-      "field" : "Total Cost",
+      "field" : "Unit Cost",
       "type" : "quantitative"
     }
   },
